@@ -1,0 +1,22 @@
+h2 {
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    color: orange;
+}
+
+ul {
+    padding: 1rem;
+    border: 1px solid orange;
+    text-decoration: none;
+}
+
+li {
+    padding: 0.2rem;
+    color: white;
+    list-style: none;
+}
+
+span {
+    color: rgb(255, 163, 92);
+}
